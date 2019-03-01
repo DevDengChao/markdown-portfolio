@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm a _coder_, who can write `Spring` based `Java` web application, `Kotlin` based `Android` application, and some `HTML` and `JavaScript`.
