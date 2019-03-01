@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
++ Category 1
++ Category 2
+  + Item 2.1
